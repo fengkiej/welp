@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1" sequence="0" timestamp="1486919429364" analysisTimestamp="1486919429392" release="">
+  <Project projectName="">
+    <Jar>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/build/classes/main/com/example/bot/spring/FirebaseConnect.class</Jar>
+    <Jar>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/build/classes/main/com/example/bot/spring/KitchenSinkApplication.class</Jar>
+    <Jar>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/build/classes/main/com/example/bot/spring/KitchenSinkWebMvcConfigurer.class</Jar>
+    <Jar>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/build/classes/main/com/example/bot/spring/KitchenSinkController.class</Jar>
+    <Jar>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/build/classes/main/com/example/bot/spring/KitchenSinkController$DownloadedContent.class</Jar>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-admin/4.1.1/78bec1345394c4613c49c7b6ae9ac86c4ab29f7/firebase-admin-4.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/line-bot-spring-boot/build/libs/line-bot-spring-boot-1.7.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.12/64b2d2e8734b54ddba60a69df68a6dac627366c8/lombok-1.16.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/1.4.2.RELEASE/17afad1f363b4873f848bf5fab64b864713aef43/spring-boot-configuration-processor-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-gson/1.21.0/37de4d5c38d1961c49bff32873623dc1cf375dd9/google-api-client-gson-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.21.0/910306893fd7d6cc16bf4e358104f08dff63aeb8/google-http-client-gson-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/line-bot-api-client/build/libs/line-bot-api-client-1.7.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/line-bot-model/build/libs/line-bot-model-1.7.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/line-bot-servlet/build/libs/line-bot-servlet-1.7.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.4.2.RELEASE/368e464f9ce4622722ce0944cc4ba6fa71332b68/spring-boot-autoconfigure-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.4.2.RELEASE/7145c258f8fba4067f9e3880fad23586c9b8ff10/spring-boot-starter-web-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.4.RELEASE/da373e491d3863477568896089ee9457bc316783/spring-core-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.21.0/16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc/google-api-client-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.21.0/42631630fe1276d4d6d6397bb07d53a4e4fec278/google-http-client-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.4/ca365c0817cc345ea831cae7c4e9b42a72b32281/jackson-core-2.8.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.4/1c36c81e79cacdf48116afba8495e3393d267ba1/jackson-databind-2.8.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.8.4/4014a56f3f029e98c5ebe5be41bacb86cb38e16b/jackson-datatype-jsr310-2.8.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.1.0/ef33476a62d9c62dfca6b6c9e086f2e3343a96f4/converter-jackson-2.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.4/de3570327cf8d1d4f37920535c51a1f74225a6de/jackson-annotations-2.8.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.4.2.RELEASE/19ecf2582f58722c08147918982227885f6e31b1/spring-boot-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.4.2.RELEASE/c6068dc9688c12509bb1c36fcf6ff4817d46cce2/spring-boot-starter-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.4.2.RELEASE/1ab1939bb566bbaf25cc1f50cdf955b6c927c4d3/spring-boot-starter-tomcat-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/fb18766b576aa6632bcfe9a20a023cbd52bf9769/hibernate-validator-5.2.4.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.4.RELEASE/719f05404ba8a9de1516398d31d9622042584f0d/spring-web-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.4.RELEASE/79529d7ea72045e92e3dbeb0f4f6919093f47137/spring-webmvc-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.21.0/61ec42bbfc51aafde5eb8b4923c602c5b5965bc2/google-oauth-client-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.21.0/8ce17bdd15fff0fd8cf359757f29e778fc7191ad/google-http-client-jackson2-1.21.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/733db77aa8d9b2d68015189df76ab06304406e50/httpclient-4.5.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.4.RELEASE/c8086505715fba4927fed3d7e3314692817413b6/spring-context-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.4.2.RELEASE/2799c67340d6a27af5f17a7ecdfa1f50cb1d152d/spring-boot-starter-logging-1.4.2.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.17/7a27ea250c5130b2922b86dea63cbb1cc10a660c/snakeyaml-1.17.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.6/960834b5abc6b2135250487abf6c060a0fa5a22e/tomcat-embed-core-8.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.5.6/a102298d8dc72f4065533d5962953d753b172602/tomcat-embed-el-8.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.5.6/6f6940a216b380ea8506530c374fcfeef820ba54/tomcat-embed-websocket-8.5.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.3/864c8e370a691e343210cc7c532fc198cee460d8/classmate-1.3.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.4.RELEASE/43f3d4a43a8dcc91137e092b981101332a645e4b/spring-aop-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.4.RELEASE/4fbf4327d6c7f81c821f2d56e8695d394c7b930a/spring-beans-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.4.RELEASE/5573955b5373669be0e352a1eb5dc9c87b069cb6/spring-expression-4.3.4.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.5/e7501a1b34325abb00d17dde96150604a0658b54/httpcore-4.4.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/9865cf6994f9ff13fce0bf93f2054ef6c65bb462/logback-classic-1.1.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.21/331b564a3a42f002a0004b039c1c430da89062cd/jcl-over-slf4j-1.7.21.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.21/2f22c882ffa479d1e9ff4eb0e8e2c29f2a0871ed/jul-to-slf4j-1.7.21.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.21/b3700d97464d99bdcd42c0177d6e7951c94d75ff/log4j-over-slf4j-1.7.21.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/7873092d39ef741575ca91378a6a21c388363ac8/logback-core-1.1.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/app/tmp/cache/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar</AuxClasspathEntry>
+    <SrcDir>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkController.java</SrcDir>
+    <SrcDir>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkWebMvcConfigurer.java</SrcDir>
+    <SrcDir>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkApplication.java</SrcDir>
+    <SrcDir>/tmp/build_d470e9fc95e54ad9be449bbadcac3435/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/FirebaseConnect.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 12 Feb 2017 17:10:29 +0000" total_classes="5" referenced_classes="115" total_bugs="0" total_size="262" num_packages="1" java_version="1.8.0_121-cedar14" vm_version="25.121-b13" cpu_seconds="9.48" clock_seconds="4.98" peak_mbytes="187.80" alloc_mbytes="837.50" gc_seconds="0.12">
+    <PackageStats package="com.example.bot.spring" total_bugs="0" total_types="5" total_size="262">
+      <ClassStats class="com.example.bot.spring.FirebaseConnect" sourceFile="FirebaseConnect.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.example.bot.spring.KitchenSinkApplication" sourceFile="KitchenSinkApplication.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.example.bot.spring.KitchenSinkController" sourceFile="KitchenSinkController.java" interface="false" size="206" bugs="0"/>
+      <ClassStats class="com.example.bot.spring.KitchenSinkController$DownloadedContent" sourceFile="KitchenSinkController.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.example.bot.spring.KitchenSinkWebMvcConfigurer" sourceFile="KitchenSinkWebMvcConfigurer.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="719" invocations="933" avgMicrosecondsPerInvocation="771" maxMicrosecondsPerInvocation="34836" standardDeviationMircosecondsPerInvocation="2189"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="352" invocations="115" avgMicrosecondsPerInvocation="3066" maxMicrosecondsPerInvocation="33439" standardDeviationMircosecondsPerInvocation="6182"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="333" invocations="115" avgMicrosecondsPerInvocation="2898" maxMicrosecondsPerInvocation="42053" standardDeviationMircosecondsPerInvocation="6624"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="184" invocations="289" avgMicrosecondsPerInvocation="639" maxMicrosecondsPerInvocation="18332" standardDeviationMircosecondsPerInvocation="1480"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="176" invocations="895" avgMicrosecondsPerInvocation="197" maxMicrosecondsPerInvocation="21643" standardDeviationMircosecondsPerInvocation="1018"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="129" invocations="43" avgMicrosecondsPerInvocation="3014" maxMicrosecondsPerInvocation="42828" standardDeviationMircosecondsPerInvocation="6893"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="127" invocations="47" avgMicrosecondsPerInvocation="2717" maxMicrosecondsPerInvocation="18237" standardDeviationMircosecondsPerInvocation="4261"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="120" invocations="43" avgMicrosecondsPerInvocation="2811" maxMicrosecondsPerInvocation="23035" standardDeviationMircosecondsPerInvocation="4342"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="118" invocations="943" avgMicrosecondsPerInvocation="125" maxMicrosecondsPerInvocation="11687" standardDeviationMircosecondsPerInvocation="532"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="112" invocations="39" avgMicrosecondsPerInvocation="2896" maxMicrosecondsPerInvocation="75096" standardDeviationMircosecondsPerInvocation="11826"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="108" invocations="115" avgMicrosecondsPerInvocation="946" maxMicrosecondsPerInvocation="15430" standardDeviationMircosecondsPerInvocation="2600"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="99" invocations="180" avgMicrosecondsPerInvocation="555" maxMicrosecondsPerInvocation="23648" standardDeviationMircosecondsPerInvocation="2050"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="99" invocations="115" avgMicrosecondsPerInvocation="864" maxMicrosecondsPerInvocation="18604" standardDeviationMircosecondsPerInvocation="2286"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="99" invocations="115" avgMicrosecondsPerInvocation="862" maxMicrosecondsPerInvocation="14007" standardDeviationMircosecondsPerInvocation="2206"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="88" invocations="115" avgMicrosecondsPerInvocation="766" maxMicrosecondsPerInvocation="14474" standardDeviationMircosecondsPerInvocation="2036"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="83" invocations="43" avgMicrosecondsPerInvocation="1952" maxMicrosecondsPerInvocation="10183" standardDeviationMircosecondsPerInvocation="2717"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="78" invocations="47" avgMicrosecondsPerInvocation="1679" maxMicrosecondsPerInvocation="12623" standardDeviationMircosecondsPerInvocation="2777"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="77" invocations="43" avgMicrosecondsPerInvocation="1808" maxMicrosecondsPerInvocation="14916" standardDeviationMircosecondsPerInvocation="2778"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="77" invocations="43" avgMicrosecondsPerInvocation="1807" maxMicrosecondsPerInvocation="56659" standardDeviationMircosecondsPerInvocation="8532"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
